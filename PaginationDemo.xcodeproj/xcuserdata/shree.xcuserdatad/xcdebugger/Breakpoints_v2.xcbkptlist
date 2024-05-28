@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ADDDEEFC-4628-4333-B865-50D1147A6500"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1156F3D5-8E42-4C64-B585-339A07495BB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/ApiHandler/ApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "apiCall(urlStr:method:param:comletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1156F3D5-8E42-4C64-B585-339A07495BB6 - f0f9a3dbdcc51def"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+               <Location
+                  uuid = "1156F3D5-8E42-4C64-B585-339A07495BB6 - 93752d2cefd4613f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CB0D9C4-7FFA-4634-97C2-F8B81C846944"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/ApiHandler/ApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "apiCall(urlStr:method:param:comletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CB0D9C4-7FFA-4634-97C2-F8B81C846944 - 50d1a08b4612a322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2956">
+               </Location>
+               <Location
+                  uuid = "8CB0D9C4-7FFA-4634-97C2-F8B81C846944 - 50d1a08b4612a322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2672">
+               </Location>
+               <Location
+                  uuid = "8CB0D9C4-7FFA-4634-97C2-F8B81C846944 - 2caa6b82e78446a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/ApiHandler/ApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "apiCall(urlStr:method:param:comletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF - 50d1a08b4612a264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF - 50d1a08b4612a264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+               <Location
+                  uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF - 50d1a08b4612a264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1844">
+               </Location>
+               <Location
+                  uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF - 50d1a08b4612a264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF - 2caa6b82e78447e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "0F951CC7-6019-4505-8B9F-D55727BEB5BF - 2caa6b82e78447e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61332297-CD6A-4481-A8E5-D1534AAE2FA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/ApiHandler/ApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "apiCall(urlStr:method:param:comletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61332297-CD6A-4481-A8E5-D1534AAE2FA6 - 50d1a08b4612a3c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "2840">
+               </Location>
+               <Location
+                  uuid = "61332297-CD6A-4481-A8E5-D1534AAE2FA6 - 50d1a08b4612a3c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "2556">
+               </Location>
+               <Location
+                  uuid = "61332297-CD6A-4481-A8E5-D1534AAE2FA6 - 2caa6b82e7844640"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "2252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74D84808-3794-448D-B582-CFC9368545F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/ApiHandler/ApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "apiCall(urlStr:method:param:comletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74D84808-3794-448D-B582-CFC9368545F5 - 50d1a08b4612a2e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "74D84808-3794-448D-B582-CFC9368545F5 - 50d1a08b4612a2e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "74D84808-3794-448D-B582-CFC9368545F5 - 2caa6b82e784476b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4D93F7A-0BCB-45E3-8C74-58E611DFDA02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/ApiHandler/ApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "apiCall(urlStr:method:param:comletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4D93F7A-0BCB-45E3-8C74-58E611DFDA02 - 50d1a08b4612a3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2784">
+               </Location>
+               <Location
+                  uuid = "C4D93F7A-0BCB-45E3-8C74-58E611DFDA02 - 50d1a08b4612a3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;&#x3c4;_0_0, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2500">
+               </Location>
+               <Location
+                  uuid = "C4D93F7A-0BCB-45E3-8C74-58E611DFDA02 - 2caa6b82e7844625"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationDemo.ApiHandler.apiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(urlStr: Swift.String, method: PaginationDemo.HTTPMethod, param: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, comletion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, PaginationDemo.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/ApiHandler/ApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85258BF1-0EA8-490B-94C7-6F88B6E0B6D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationDemo/MVVM/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85258BF1-0EA8-490B-94C7-6F88B6E0B6D8 - 69a56d972cb031e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationDemo.ViewController.fetch() -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/MVVM/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "85258BF1-0EA8-490B-94C7-6F88B6E0B6D8 - 69a56d972cb031e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationDemo.ViewController.fetch() -&gt; ()"
+                  moduleName = "PaginationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shree/Desktop/Study/PaginationDemo/PaginationDemo/MVVM/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
